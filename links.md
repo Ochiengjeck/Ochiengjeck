@@ -1,0 +1,6 @@
+BIW = "https://github.com/Ochiengjeck/Ochiengjeck/blob/main/images/BIW%201.png?raw=true"
+BIW2 ="https://github.com/Ochiengjeck/Ochiengjeck/blob/main/images/BIW%202.png?raw=true"
+CS-Cert ="https://github.com/Ochiengjeck/Ochiengjeck/blob/main/images/CS_Certificate%20of%20completion.png?raw=true"
+sabucomm="https://github.com/Ochiengjeck/Ochiengjeck/blob/main/images/SabuComm.jpeg?raw=true"
+appointment ="https://github.com/Ochiengjeck/Ochiengjeck/blob/main/images/appointment.jpeg?raw=true"
+attendance  ="https://github.com/Ochiengjeck/Ochiengjeck/blob/main/images/Attendance.png?raw=true"
